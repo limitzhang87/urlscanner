@@ -1,12 +1,12 @@
 {
-    "name": "zhang/urlscanner",
+    "name": "zhangjixian/urlscanner",
     "description": "Scan URLs FROM A CSV FILE AND REPORT INACCESSIBLE URLs",
     "keywords": ["url", "scanner", "csv"],
-    "homepage": "https://zhangjixianq.com",
+    "homepage": "https://zhangjixian.com",
     "license": "MIT",
     "authors": [
         {
-            "name": "zhang",
+            "name": "zhangjixian",
             "email": "yijiushigelaji@163.com"
         }
     ],
@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Zhang\\UrlScanner\\": "src/"
+            "Zhangjixian\\UrlScanner\\": "src/"
         }
     },
     "repositories": {
